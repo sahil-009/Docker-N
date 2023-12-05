@@ -1,0 +1,46 @@
+container
+a way to package application witha all the necessary dependencies and configurations.
+
+package is portable
+
+container live
+
+in container repo
+
+some compant have private repo
+
+publie repo dor docker docker hub
+
+how container improve devlopment process
+
+whatis containers?
+made up of images
+mostly base images ,becoz small in size
+
+postgres:10.10	top layer application image
+
+``
+``
+```
+```
+``
+``
+```
+
+alpine:3.10 linux base image
+
+Images?
+the actual package 
+artifact that can move around
+
+container?
+start the application
+image store inside container
+
+How docker works on operating system level?
+
+Docker on os level
+
+Diff level of abstraction
+
+why linux-based docker container dont run on windows
